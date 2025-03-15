@@ -2,6 +2,13 @@
 
 Collection Creator is a web-based tool that allows users to create and manage databases, tables, and table fields dynamically. Users can also generate MySQL and PHP code for their database structures, view and modify table data, and create fully customizable forms based on table fields.
 
+## Demo of Home Page
+![Main Page video](/assets/Image%20Preview/Home_page.png)
+
+## Demo Video
+[![Main Page video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+--
+
 ## Features
 
 ### **Database & Table Management**
