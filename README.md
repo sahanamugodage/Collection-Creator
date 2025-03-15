@@ -6,7 +6,7 @@ Collection Creator is a web-based tool that allows users to create and manage da
 ![Main Page video](/assets/Image%20Preview/Home_page.png)
 
 ## Demo Video
-[![Main Page video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Main Page video](https://img.youtube.com/vi/aHkzvwyKMWo/0.jpg)](https://youtu.be/aHkzvwyKMWo)
 --
 
 ## Features
