@@ -92,6 +92,9 @@ Contributions are welcome! Follow these steps to contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or suggestions, feel free to reach out:
-- GitHub: [sahanamugodage](https://github.com/sahanamugodage)
+## Contact  
+For any questions or suggestions, feel free to reach out:  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sahanamugodage)  
+[![Email](https://img.shields.io/badge/Email-sahanamugodage@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sahanamugodage@gmail.com)
+
